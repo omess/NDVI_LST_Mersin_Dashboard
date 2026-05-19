@@ -1,4 +1,7 @@
-streamlit
-folium
-streamlit-folium
+streamlit>=1.30.0
+folium>=0.15.0
+streamlit-folium>=0.18.0
 pillow
+branca
+plotly>=5.18.0
+pandas>=2.0.0
