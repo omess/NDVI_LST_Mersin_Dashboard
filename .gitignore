@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+.eggs/
+
+# Data files (use Git LFS or external storage)
+*.tif
+*.tiff
+*.img
+*.hdf
+*.hdf5
+*.nc
+*.zip
+*.7z
+*.rar
+*.tar.gz
+data/
+*.geojson
+*.gpkg
+*.shp
+*.shx
+*.dbf
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+*.env
